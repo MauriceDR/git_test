@@ -2,7 +2,9 @@ h1 {
     margin: auto;
 }
 
-div {
+
+p {
     border: 1px solid black;
     margin: auto;
+    border-radius: 0.5em;
 }
